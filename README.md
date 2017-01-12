@@ -7,4 +7,4 @@ On my system this is located at
 
 On some systems it seems to be located at 
 
-    ~/.config/codeblocks/UserTemplates
+    ~/.codeblocks/UserTemplates
